@@ -1,60 +1,72 @@
-<div align="center" width="50">
+<div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
+<img src="https://github.com/your-username/your-username/blob/main/banner.gif" alt="banner" width="100%"/>
 
-### Hi there 👋, I'm **Mohamed Salah**  
-🎮 Game Developer | 🎥 YouTube Content Creator  
+# 👾 Mohamed Salah  
+🎮 **Game Developer** | 🎥 **YouTube Content Creator** | 💡 **Tech Explorer**
 
-</div>
-
----
-
-### 🚀 About Me  
-- 🔭 Currently working on **Game Development (2D & 3D)**.  
-- 🎥 Sharing tutorials & devlogs on **[YouTube](https://www.youtube.com/)**.  
-- 💡 Interested in **Cybersecurity, AI, and Creative Coding**.  
-- 🐧 Big fan of **Linux & Open Source**.  
-- 🎯 Goal: Building games that inspire and entertain players worldwide.  
+[![YouTube Channel](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourtelegram)
 
 ---
 
-### 🛠️ Tools & Technologies  
+### 🌟 About Me  
+🔥 مطور ألعاب أعشق تحويل الأفكار إلى عوالم تفاعلية.  
+🎥 أشارك خبرتي ومغامراتي مع تطوير الألعاب على **YouTube**.  
+💻 أعزف على الكود مثلما يعزف الموسيقي على آلته.  
+🎯 هدفي: صناعة ألعاب تترك بصمة في عالم الجيمرز.  
+
+---
+
+### 🎮 My Game Showcase  
+
+<table>
+<tr>
+<td align="center"><img src="https://github.com/your-username/your-username/blob/main/game1.gif" width="220px"><br><b>⚔️ Epic Adventure</b><br><sub>Unity • 2D Platformer</sub></td>
+<td align="center"><img src="https://github.com/your-username/your-username/blob/main/game2.gif" width="220px"><br><b>🚀 Space Shooter</b><br><sub>Unreal • 3D Shooter</sub></td>
+<td align="center"><img src="https://github.com/your-username/your-username/blob/main/game3.gif" width="220px"><br><b>🧩 Puzzle Mind</b><br><sub>Godot • Puzzle Game</sub></td>
+</tr>
+</table>
+
+---
+
+### ⚡ Tech Stack  
 
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=flat&logo=unity&logoColor=white)  
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131.svg?style=flat&logo=unrealengine&logoColor=white)  
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)  
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)  
 ![Blender](https://img.shields.io/badge/Blender-F5792A.svg?style=flat&logo=blender&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)  
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF.svg?style=flat&logo=adobe-photoshop&logoColor=black)  
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 Stats & Achievements  
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=tokyonight" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=tokyonight" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" width="48%" />
+<br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-username&theme=radical" width="96%" />
+
 </div>
 
 ---
 
-### 🌐 Find Me Online  
-- 🎥 YouTube: [Your Channel](https://www.youtube.com/)  
-- 💬 Telegram: [@YourTelegram](https://t.me/)  
-- 🐦 Twitter/X: [@YourTwitter](https://twitter.com/)  
+### 🎥 Latest YouTube Uploads  
+<!-- YOUTUBE:START -->
+- [Devlog 01: Building My First Game](https://www.youtube.com/)
+- [Game Dev Tips: Level Design Like a Pro](https://www.youtube.com/)
+- [Unity vs Unreal - Which One to Choose?](https://www.youtube.com/)
+<!-- YOUTUBE:END -->
 
 ---
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Video%20Game.png" width="10%" alt="Game Dev"/>
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Joystick.png" width="10%" alt="Joystick"/>
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" width="10%" alt="Star"/>
+### 🔥 Fun Fact  
+<img src="https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif" width="40">  
+**Gamers don’t die, they respawn.**
+
 </div>
