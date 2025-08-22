@@ -6,6 +6,8 @@
 ### Hi there 👋, I'm **Mohamed Salah**  
 🎮 Game Developer | 🎥 YouTube Content Creator  
 
+![Profile Views](https://komarev.com/ghpvc/?username=YourUserName&style=for-the-badge&color=blue&label=VIEWS)
+
 </div>
 
 ---
@@ -45,29 +47,9 @@
 ---
 
 ### 🌐 Find Me Online  
-
-<div align="center">
-
-<a href="https://www.youtube.com/" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"/>
-</a>
-<a href="https://t.me/YourTelegram" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram"/>
-</a>
-<a href="https://twitter.com/YourTwitter" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter"/>
-</a>
-<a href="https://www.instagram.com/YourInstagram" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/>
-</a>
-<a href="https://www.linkedin.com/in/YourLinkedIn" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
-</a>
-<a href="https://discord.gg/YourDiscord" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord"/>
-</a>
-
-</div>
+<a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://t.me/" target="_blank"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
 ---
 
